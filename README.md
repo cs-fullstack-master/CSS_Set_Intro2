@@ -1,4 +1,4 @@
-# CSS_Set_Intro2
+# CSS_Set_Intro3
 
 Create the website seen in the example of blogPost.png. Use the text below:
 
